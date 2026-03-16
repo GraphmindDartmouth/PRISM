@@ -13,8 +13,8 @@ git clone https://github.com/GraphmindDartmouth/PRISM.git
 
 ### Install the required packages using conda:
 ```bash
-  cd src
-  conda env create -f env.yml
+cd src
+conda env create -f env.yml
    ```
 Experiments are carried out on a NVIDIA L40 with CUDA Version 12.2.
 

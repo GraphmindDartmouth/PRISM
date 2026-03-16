@@ -21,7 +21,7 @@ Experiments are carried out on NVIDIA L40 GPUs with CUDA Version 12.2.
 ### NSD data:
 Agree to the Natural Scenes Dataset's [Terms and Conditions](https://cvnlab.slite.page/p/IB6BSeW_7o/Terms-and-Conditions) and fill out the [NSD Data Access form](https://forms.gle/xue2bCdM9LaFNMeb7). Then download the NSD data.
 
-## Quick Start
+## Quickstart
 Run the following command to execute the entire pipeline, which includes keyword generation, structured text generation, model training, and image generation. Make sure to replace `{api key}` with your actual OpenAI API key.
 ```bash
 . quick_start.sh

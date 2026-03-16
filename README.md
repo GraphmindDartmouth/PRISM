@@ -2,7 +2,7 @@
 Codes for paper "Seeing Through the Brain: New Insights from Decoding Visual Stimuli with fMRI" (PRISM).
 
 ## Introduction
-We propose PRISM, a model that Projects fMRI sIgnals into a Structured text space as an interMediate representation for visual stimuli reconstruction. It includes an object centric diffusion module that generates images by composing individual objects to reduce object detection errors, and an attribute relationship search module that automatically identifies key attributes and relationships that best align with the neural activity
+We propose PRISM, a model that Projects fMRI sIgnals into a Structured text space as an interMediate representation for visual stimuli reconstruction. It includes an object centric diffusion module that generates images by composing individual objects to reduce object detection errors, and an attribute relationship search module that automatically identifies key attributes and relationships that best align with the neural activity.
 
 ## Requirements
 

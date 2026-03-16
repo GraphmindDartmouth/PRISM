@@ -16,7 +16,7 @@ import time
 from keyword_generator import keyword_generator
 import json
 import os
-from src_final.new_nsd_data import load_data_lists
+from src.new_nsd_data import load_data_lists
 import argparse
 
 

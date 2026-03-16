@@ -1,0 +1,8 @@
+Setting up [LPIPS] perceptual loss: trunk [alex], v[0.1], spatial [off]
+LPIPS: 0.6040
+Inception V3 identification: 0.9433
+Clip identification: 0.9444
+Pixel Correlation: 0.3247
+SSIM: 0.4509
+
+Process finished with exit code 0

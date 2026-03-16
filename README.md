@@ -16,7 +16,7 @@ git clone https://github.com/GraphmindDartmouth/PRISM.git
 cd src
 conda env create -f env.yml
    ```
-Experiments are carried out on a NVIDIA L40 with CUDA Version 12.2.
+Experiments are carried out on NVIDIA L40 GPUs with CUDA Version 12.2.
 
 ### NSD data:
 Agree to the Natural Scenes Dataset's [Terms and Conditions](https://cvnlab.slite.page/p/IB6BSeW_7o/Terms-and-Conditions) and fill out the [NSD Data Access form](https://forms.gle/xue2bCdM9LaFNMeb7). Then download the NSD data.
